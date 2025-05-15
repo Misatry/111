@@ -1,0 +1,17 @@
+com\mapreduce\demo1\Part1Reduce.class
+com\mapreduce\demo4\Part1Mapper.class
+com\mapreduce\demo1\ReceiveTable.class
+com\mapreduce\demo2\Part1Runner.class
+com\mapreduce\demo3\Part1Mapper.class
+com\mapreduce\demo2\ReceiveTable.class
+com\mapreduce\demo3\ReceiveTable.class
+com\mapreduce\demo4\Part1Reduce.class
+com\mapreduce\demo1\Part1Mapper.class
+com\mapreduce\demo3\Part1Runner.class
+com\mapreduce\demo3\Part1Reduce.class
+com\mapreduce\demo2\Part1Mapper.class
+com\mapreduce\demo1\Part1Runner.class
+com\mapreduce\demo4\ReceiveTable.class
+Util\DBUtil.class
+com\mapreduce\demo4\Part1Runner.class
+com\mapreduce\demo2\Part1Reduce.class
